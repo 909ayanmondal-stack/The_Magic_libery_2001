@@ -1,4 +1,4 @@
-# The Magic Library 2001
+# Ayan's Kitchen Agent
 
 An AI-powered library management system built using Google ADK.
 
